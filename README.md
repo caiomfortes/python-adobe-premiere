@@ -9,3 +9,4 @@
 <p>- O projeto acelerou todo o fluxo, deixando maior tempo de trabalho para a edição que se faz necessária ser manual.</p>
 <br>
 <p>Obs: arquivos de vídeos e algumas planilhas não podem ser disponibilizadas publicamente.</p>
+<p>Obs: o arquivo principal com o código foi construi usando kernel no VS Code, para divisão de melhor controle de etapas, ou seja, é facilmente aplicável no spyder.</p>
